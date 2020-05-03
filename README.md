@@ -4,6 +4,8 @@
 
 * [Pimp my RMD: a few tips for R Markdown](https://holtzy.github.io/Pimp-my-rmd/) by [Yan Holtz](https://www.yan-holtz.com/).
 
+* [A complete list of github markdown emoji markup](https://gist.github.com/rxaviers/7360908) by [Rafael Xavier de Souza](http://rafael.xavier.blog.br/).
+
 ### GitHub
 
 * [A hack for showing LaTeX formulas in GitHub markdown.md](https://gist.github.com/a-rodin/fef3f543412d6e1ec5b6cf55bf197d7b) by [Alexander Rodin](https://gist.github.com/a-rodin).
@@ -13,6 +15,24 @@
 * [explor](https://juba.github.io/explor/) an R package to allow interactive exploration of multivariate analysis results by [Julien Barnier](https://data.nozav.org/).
 
 * [Ecological forecasting](https://www.youtube.com/channel/UCZ2KQdo1-FhNRtEBYxai5Aw) videos.
+
+* [Statistics in action with R](http://sia.webpopix.org/index.html) by [Marc Lavielle](http://www.cmap.polytechnique.fr/~lavielle/).
+
+### R 
+
+* [Formations R aux MTES & MCTRCT](https://mtes-mct.github.io/parcours-r/).
+
+### Dataviz
+
+* The [R graph gallery](https://www.r-graph-gallery.com/) by [Yan Holtz](https://www.yan-holtz.com/).
+
+* A [compendium of clean R graphs](http://shinyapps.org/apps/RGraphCompendium/index.php?utm_content=buffer631a3&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer) by [Eric-Jan Wagenmakers](http://www.ejwagenmakers.com/) and [Quentin F. Gronau](https://github.com/quentingronau).
+
+* Free silhouette images of animals, plants, and other life forms via [PhyloPic](http://phylopic.org/).
+
+* [Free icons](https://thenounproject.com/) for everything.
+
+* Freely usable high-quality images via [unsplash](https://unsplash.com/). 
 
 ### Day-to-day tricks
 
