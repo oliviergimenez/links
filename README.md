@@ -18,6 +18,10 @@
 
 * [Radiohead](https://www.youtube.com/channel/UCr_iyUANcn9OX_yy9piYoLw/playlists?view=50&sort=dd&shelf_id=3579731707244514300), [Prince](https://www.youtube.com/user/prince/featured), [Metallica](https://www.youtube.com/channel/UCbulh9WdLtEXiooRcYK7SWw).  
 
+### Montpellier 
+
+* [List of nice places in town](https://www.google.com/maps/d/u/0/viewer?mid=1O_HoGFxRu4Kv52qfv3CA5NVoWiy_dAWk&ll=43.58423373369787%2C3.9502883500000507&z=12), including bars, restaurants, cafés, bakeries, etc.
+
 ### Procrastination
 
 * [10 jeux rigolos](https://www.lemonde.fr/pixels/article/2020/05/03/jeux-video-notre-selection-de-dix-nouveaux-jeux-mobiles-delirants_6038509_4408996.html) pour Android et iOS.
