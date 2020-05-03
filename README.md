@@ -10,4 +10,4 @@
 
 ### Statistics
 
-* [explor](https://juba.github.io/explor/) an R package to allow interactive exploration of multivariate analysis results by [Julien Barnier]()
+* [explor](https://juba.github.io/explor/) an R package to allow interactive exploration of multivariate analysis results by [Julien Barnier](https://data.nozav.org/)
