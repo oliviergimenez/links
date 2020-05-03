@@ -14,6 +14,12 @@
 
 * [Ecological forecasting](https://www.youtube.com/channel/UCZ2KQdo1-FhNRtEBYxai5Aw) videos.
 
+### Day-to-day tricks
+
+* Shorten long URLs with [bitly](https://bitly.com/) or [tinyurl](https://tinyurl.com/create.php?source=indexpage&url=https%3A%2F%2Fpubs.rsna.org%2Fdoi%2F10.1148%2Frg.2017170077%3Furl_ver%3DZ39.88-2003%26rfr_id%3Dori%3Arid%3Acrossref.org%26rfr_dat%3Dcr_pub%253dpubmed&submit=Make+TinyURL%21&alias=).
+
+* Find PDFs of [papers](https://scihub.unblockit.one/) and [books](http://93.174.95.27/).
+
 ### Music
 
 * [Radiohead](https://www.youtube.com/channel/UCr_iyUANcn9OX_yy9piYoLw/playlists?view=50&sort=dd&shelf_id=3579731707244514300), [Prince](https://www.youtube.com/user/prince/featured), [Metallica](https://www.youtube.com/channel/UCbulh9WdLtEXiooRcYK7SWw).  
