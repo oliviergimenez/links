@@ -11,3 +11,7 @@
 ### Statistics
 
 * [explor](https://juba.github.io/explor/) an R package to allow interactive exploration of multivariate analysis results by [Julien Barnier](https://data.nozav.org/)
+
+### Procrastination
+
+* [10 jeux rigolos](https://www.lemonde.fr/pixels/article/2020/05/03/jeux-video-notre-selection-de-dix-nouveaux-jeux-mobiles-delirants_6038509_4408996.html) pour Android et iOS
