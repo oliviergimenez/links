@@ -40,6 +40,14 @@
 
 * Freely usable high-quality images via [unsplash](https://unsplash.com/). 
 
+### covid-19 epidemic modeling
+
+* [SIR](https://www.nature.com/articles/s41592-020-0822-z?draft=collection)-based epidemic interfaces: 
+    * [Modeling COVID-19 Spread vs Healthcare Capacity](https://alhill.shinyapps.io/COVID19seir/)
+    * [Historical model projections for a given country or region (currently supports IHME and LANL projections) ](https://www.covid-projections.com/)
+    * [COVID-19 Projections Using Machine Learning](https://covid19-projections.com/)
+    * [Epidemic Calculator](https://gabgoh.github.io/COVID/index.html)
+
 ### Day-to-day tricks
 
 * Shorten long URLs with [bitly](https://bitly.com/) or [tinyurl](https://tinyurl.com/create.php?source=indexpage&url=https%3A%2F%2Fpubs.rsna.org%2Fdoi%2F10.1148%2Frg.2017170077%3Furl_ver%3DZ39.88-2003%26rfr_id%3Dori%3Arid%3Acrossref.org%26rfr_dat%3Dcr_pub%253dpubmed&submit=Make+TinyURL%21&alias=).
