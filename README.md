@@ -40,13 +40,25 @@
 
 * Freely usable high-quality images via [unsplash](https://unsplash.com/). 
 
-### covid-19 epidemic modeling
+### covid-19 epidemic
 
 * [SIR](https://www.nature.com/articles/s41592-020-0822-z?draft=collection)-based epidemic interfaces: 
     * [Modeling COVID-19 Spread vs Healthcare Capacity](https://alhill.shinyapps.io/COVID19seir/);
     * [Historical model projections for a given country or region](https://www.covid-projections.com/) (currently supports IHME and LANL projections);
     * [COVID-19 Projections Using Machine Learning](https://covid19-projections.com/);
-    * [Epidemic Calculator](https://gabgoh.github.io/COVID/index.html).
+    * [Epidemic Calculator](https://gabgoh.github.io/COVID/index.html);
+    * [Potential Long-Term Intervention Strategies for COVID-19](http://covid-measures.stanford.edu/).
+* [Coronavirus statistics: what can we trust and what should we ignore?](https://www.theguardian.com/world/2020/apr/12/coronavirus-statistics-what-can-we-trust-and-what-should-we-ignore)
+* [Why It’s So Freaking Hard To Make A Good COVID-19 Model](https://fivethirtyeight.com/features/why-its-so-freaking-hard-to-make-a-good-covid-19-model/)
+* [Covid-19 index of articles](https://www.significancemagazine.com/647?fbclid=IwAR30SVkNF84OsMQAbPUrWMAwiQHBTWCBoJYW5Ag8n7gaIyeOM1GB-Fe5xFs) At this time of pandemic, the news media is flooded with reports of coronavirus cases, treatments, deaths, and data and terminology that may prove confusing and/or overwhelming for members of the public. As a publication committed to explaining statistical ideas and concepts, we want to help readers understand what’s going on, to make sense of the data they are confronted with, and to put important information into the appropriate context. Significance.
+* [Open-Source-COVID-19 - A global collection of Open Source projects during COVID-19](http://open-source-covid-19.weileizeng.com/)
+* [How you can help with COVID-19 modelling](https://www.nature.com/articles/s42254-020-0175-7?fbclid=IwAR0-MhfxDf0Sa4p1EKAWavaVu3qwlogaJN5fNzJQtVAk0ghXBz87ZmYZOj8)
+* [epidemic simulators](https://docs.google.com/spreadsheets/d/1hUZlVDPfa5C8KgURoP_3dAiUQgI6rdb7A5e_g8NcPaY/edit?ts=5e9606f3#gid=0) SCOPE: this list aims to capture publicly available dynamical models for estimation, forecasting, and scenario planning of COVID-19. The main focus is on compartmental rather than agent- (or network-)based models, and on more complex/realistic (i.e. including age/spatial structure, compartments for asymptomatic, hospitalized, ICU, ventilator ...) scenarios. (Basic implementations of the deterministic S(E)IR, e.g. "flatten the curve" demos, are out of scope.) Several of the models listed here are also included in the Software Tools/Modeling section of the [MIDAS COVID repo](https://github.com/midas-network/COVID-19/tree/master/software_tools)
+* [This project aims to collate mathematical models of infectious disease transmission, with implementations in R, Python, and Julia.](http://epirecip.es/epicookbook/)
+* [ Veille scientifique sur le COVID-19](https://bibliovid.org/?fbclid=IwAR3gVKmwAHaxcZpZnt3vbUUZ93uKiQNDMX93kO5b0KWw3O_Adw-z88v4DtI)
+* [Here we recommend a handful of rules for policy-makers, journalists and scientists](https://rssdss.design.blog/2020/03/31/all-models-are-wrong-but-some-are-completely-wrong/)
+* [A statistician’s guide to coronavirus numbers](https://www.statslife.org.uk/features/4474-a-statistician-s-guide-to-coronavirus-numbers)
+* [https://www.nature.com/articles/d41586-020-01266-z](https://www.nature.com/articles/d41586-020-01266-z)
 
 ### Day-to-day tricks
 
