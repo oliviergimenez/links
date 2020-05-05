@@ -10,6 +10,12 @@
 
 * [A hack for showing LaTeX formulas in GitHub markdown.md](https://gist.github.com/a-rodin/fef3f543412d6e1ec5b6cf55bf197d7b) by [Alexander Rodin](https://gist.github.com/a-rodin).
 
+### Math
+
+*  [MatrixCalculus](http://www.matrixcalculus.org/) to do matrix calculus - an online tool that computes vector and matrix derivatives (matrix calculus). 
+
+* Use [Mathematica](https://www.wolframalpha.com/examples/) online.
+
 ### Statistics
 
 * [explor](https://juba.github.io/explor/) an R package to allow interactive exploration of multivariate analysis results by [Julien Barnier](https://data.nozav.org/).
