@@ -43,10 +43,10 @@
 ### covid-19 epidemic modeling
 
 * [SIR](https://www.nature.com/articles/s41592-020-0822-z?draft=collection)-based epidemic interfaces: 
-    * [Modeling COVID-19 Spread vs Healthcare Capacity](https://alhill.shinyapps.io/COVID19seir/)
-    * [Historical model projections for a given country or region (currently supports IHME and LANL projections) ](https://www.covid-projections.com/)
-    * [COVID-19 Projections Using Machine Learning](https://covid19-projections.com/)
-    * [Epidemic Calculator](https://gabgoh.github.io/COVID/index.html)
+    * [Modeling COVID-19 Spread vs Healthcare Capacity](https://alhill.shinyapps.io/COVID19seir/);
+    * [Historical model projections for a given country or region](https://www.covid-projections.com/) (currently supports IHME and LANL projections);
+    * [COVID-19 Projections Using Machine Learning](https://covid19-projections.com/);
+    * [Epidemic Calculator](https://gabgoh.github.io/COVID/index.html).
 
 ### Day-to-day tricks
 
