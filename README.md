@@ -28,6 +28,8 @@
 
 * [Formations R aux MTES & MCTRCT](https://mtes-mct.github.io/parcours-r/).
 
+* [Introduction à R et au tidyverse](https://juba.github.io/tidyverse/index.html) par Julien Barnier. 
+
 ### Dataviz
 
 * The [R graph gallery](https://www.r-graph-gallery.com/) by [Yan Holtz](https://www.yan-holtz.com/).
