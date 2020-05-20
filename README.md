@@ -24,6 +24,10 @@
 
 * [Statistics in action with R](http://sia.webpopix.org/index.html) by [Marc Lavielle](http://www.cmap.polytechnique.fr/~lavielle/).
 
+### Python 
+
+* [Python for ecologists](http://josephsalmon.eu/HLMA408.html) by [Joseph Salmon](http://josephsalmon.eu/)
+
 ### R 
 
 * [Formations R aux MTES & MCTRCT](https://mtes-mct.github.io/parcours-r/).
