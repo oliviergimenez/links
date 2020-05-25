@@ -24,6 +24,8 @@
 
 * [Statistics in action with R](http://sia.webpopix.org/index.html) by [Marc Lavielle](http://www.cmap.polytechnique.fr/~lavielle/).
 
+* [GLMM FAQ](https://bbolker.github.io/mixedmodels-misc/glmmFAQ.html) by [Ben Bolker](https://ms.mcmaster.ca/~bolker/).
+
 ### Python 
 
 * [Python for ecologists](http://josephsalmon.eu/HLMA408.html) by [Joseph Salmon](http://josephsalmon.eu/)
