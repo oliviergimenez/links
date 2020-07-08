@@ -72,6 +72,10 @@
 * [A statistician’s guide to coronavirus numbers](https://www.statslife.org.uk/features/4474-a-statistician-s-guide-to-coronavirus-numbers)
 * [https://www.nature.com/articles/d41586-020-01266-z](https://www.nature.com/articles/d41586-020-01266-z)
 
+### Agent-based modeling
+
+* [Materials of tutorials and workshops](http://smaldino.com/wp/abm-courses/) on agent-based modeling of social dynamics by [PAul Smaldino](http://smaldino.com/wp/)
+
 ### Day-to-day tricks
 
 * Shorten long URLs with [bitly](https://bitly.com/) or [tinyurl](https://tinyurl.com/create.php?source=indexpage&url=https%3A%2F%2Fpubs.rsna.org%2Fdoi%2F10.1148%2Frg.2017170077%3Furl_ver%3DZ39.88-2003%26rfr_id%3Dori%3Arid%3Acrossref.org%26rfr_dat%3Dcr_pub%253dpubmed&submit=Make+TinyURL%21&alias=).
